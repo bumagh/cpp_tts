@@ -1,0 +1,18 @@
+============================================================
+Time  2018/08/17 21:34:12 315 
+============================================================
+[2018/08/17 21:34:12 315] isr_1conn  2217 SYS_MSG_LOAD_CLOUD  
+[2018/08/17 21:34:12 315] isr_1conn  2238 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(4389e30) 
+[2018/08/17 21:34:12 315] isr_1conn  2238 SYS_MSG_REGCB_CLOUD param0 =   cloud_rslt_cb  param1 =  func(4389e70) 
+[2018/08/17 21:34:12 315] isr_1conn  2238 SYS_MSG_REGCB_CLOUD param0 =   cloud_err_cb  param1 =  func(4389eb0) 
+[2018/08/17 21:34:12 315] isr_1conn  2238 SYS_MSG_REGCB_CLOUD param0 =   cloud_status_cb  param1 =  func(4389ef0) 
+[2018/08/17 21:34:12 316] isr_1conn  1411 onesoc  
+[2018/08/17 21:34:12 316] isr_1conn  1412 ASR_CLOUD_MSG_SSB  
+[2018/08/17 21:34:12 316] isr_1conn  1427 isr_1conn  cloud_cisr1P1HHBHcj+SraiUp-aakekBJ9l9IwM0  268436457  1530675888  
+[2018/08/17 21:34:12 316] isr_1conn  1497 req_lgi_id =  nil  
+[2018/08/17 21:34:12 316] isr_1conn  1498 not login!  
+[2018/08/17 21:34:12 316] isr_1conn  1631 nil  
+[2018/08/17 21:34:12 316] isr_1conn  1691 speex-wb  
+[2018/08/17 21:34:12 316] isr_1conn  1776 net_once_bytes  nil  
+[2018/08/17 21:34:12 318] isr_1conn  1781 need_encode  true  
+[2018/08/17 21:34:12 318] isr_1conn  1783 once bytes  122  

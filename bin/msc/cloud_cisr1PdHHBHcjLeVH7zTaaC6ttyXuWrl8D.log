@@ -1,0 +1,108 @@
+============================================================
+Time  2018/08/18 10:37:33 647 
+============================================================
+[2018/08/18 10:37:33 664] isr_1conn  2217 SYS_MSG_LOAD_CLOUD  
+[2018/08/18 10:37:33 664] isr_1conn  2238 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(42ccdd0) 
+[2018/08/18 10:37:33 664] isr_1conn  2238 SYS_MSG_REGCB_CLOUD param0 =   cloud_rslt_cb  param1 =  func(42cce10) 
+[2018/08/18 10:37:33 664] isr_1conn  2238 SYS_MSG_REGCB_CLOUD param0 =   cloud_err_cb  param1 =  func(42cce50) 
+[2018/08/18 10:37:33 664] isr_1conn  2238 SYS_MSG_REGCB_CLOUD param0 =   cloud_status_cb  param1 =  func(42cce90) 
+[2018/08/18 10:37:33 664] isr_1conn  1411 onesoc  
+[2018/08/18 10:37:33 664] isr_1conn  1412 ASR_CLOUD_MSG_SSB  
+[2018/08/18 10:37:33 664] isr_1conn  1427 isr_1conn  cloud_cisr1PdHHBHcjLeVH7zTaaC6ttyXuWrl8D  268436457  1530675888  
+[2018/08/18 10:37:33 664] isr_1conn  1497 req_lgi_id =  nil  
+[2018/08/18 10:37:33 664] isr_1conn  1498 not login!  
+[2018/08/18 10:37:33 664] isr_1conn  1631 nil  
+[2018/08/18 10:37:33 664] isr_1conn  1691 speex-wb  
+[2018/08/18 10:37:33 664] isr_1conn  1776 net_once_bytes  nil  
+[2018/08/18 10:37:33 664] isr_1conn  1781 need_encode  true  
+[2018/08/18 10:37:33 664] isr_1conn  1783 once bytes  122  
+[2018/08/18 10:37:33 665] isr_1conn  1807 User set url is   nil  
+[2018/08/18 10:37:33 665] config     91   select default  
+[2018/08/18 10:37:33 665] config     113  use general cloud  
+[2018/08/18 10:37:33 665] transport  645  paramkvsport is   nil  
+[2018/08/18 10:37:33 665] transport  657  ns_enable=  1  
+[2018/08/18 10:37:33 665] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2018/08/18 10:37:33 665] transport  665  net.nettype=  unknown  
+[2018/08/18 10:37:33 665] transport  675  url.full=  nil  
+[2018/08/18 10:37:33 665] transport  676  urltmp=  nil  
+[2018/08/18 10:37:33 665] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2018/08/18 10:37:33 665] transport  708  url.full=  nil  
+[2018/08/18 10:37:33 665] transport  907  net type:  unknown  
+[2018/08/18 10:37:33 665] transport  908  net operator:  def  
+[2018/08/18 10:37:33 665] transport  909  use proxy:  false  
+[2018/08/18 10:37:33 665] transport  1107 session.domain=  open.xf-yun.com  
+[2018/08/18 10:37:33 667] transport  1108 url.host=  open.xf-yun.com  
+[2018/08/18 10:37:33 667] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2018/08/18 10:37:33 667] transport  1178 try preferred port:  nil  
+[2018/08/18 10:37:33 667] transport  1085 NAMESERVER START  
+[2018/08/18 10:37:33 667] transport  1088 name =   iat  
+[2018/08/18 10:37:33 667] ns         629  ntt=  unknown  
+[2018/08/18 10:37:33 667] transport  1091 trans,ns_inprog =  0  
+[2018/08/18 10:37:33 667] ns         585  name server start  
+[2018/08/18 10:37:33 667] ns         586  ns_sub =   iat  
+[2018/08/18 10:37:33 667] ns         588  ns_host=  open.xf-yun.com  
+[2018/08/18 10:37:33 667] ns         479  ns_host=  open.xf-yun.com  
+[2018/08/18 10:37:33 667] ns         558  GET /sip/resolver?srand=0818103711.32 HTTP/1.1
+Host: hdns.openspeech.cn
+Connection: Keep-Alive
+X-Par: ver=1.3&appid=5b553aa8&operator=UNKNOW&nettype=STANDARD&cver=5.0.39.1208&svc=iat&host=open.xf-yun.com&sign=907d7e599eb0b532c55ce33475120d74
+User-Agent: iFLYCloud
+
+  
+[2018/08/18 10:37:33 667] ns         559  net_type =  standard  
+[2018/08/18 10:37:33 667] ns         560  cmwapascmnet =  
+[2018/08/18 10:37:33 667] ns         561  uniwapasuninet =  
+[2018/08/18 10:37:33 667] ns         562  ctwapasctnet =  
+[2018/08/18 10:37:33 667] ns         579  host=  hdns.openspeech.cn  
+[2018/08/18 10:37:33 667] network    263  gethostbyname  hdns.openspeech.cn  ns1  
+[2018/08/18 10:37:33 971] isr_1conn  262  netperf:  99  
+[2018/08/18 10:37:34 039] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  1  
+[2018/08/18 10:37:34 039] isr_1conn  1851     
+[2018/08/18 10:37:34 239] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:34 282] isr_1conn  262  netperf:  81  
+[2018/08/18 10:37:34 440] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:34 595] isr_1conn  262  netperf:  73  
+[2018/08/18 10:37:34 638] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:34 838] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:34 908] isr_1conn  262  netperf:  65  
+[2018/08/18 10:37:35 038] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:35 220] isr_1conn  262  netperf:  57  
+[2018/08/18 10:37:35 237] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:35 437] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:35 532] isr_1conn  262  netperf:  49  
+[2018/08/18 10:37:35 638] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:35 838] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:35 842] isr_1conn  262  netperf:  31  
+[2018/08/18 10:37:36 038] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:36 157] isr_1conn  262  netperf:  23  
+[2018/08/18 10:37:36 237] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:36 438] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:36 470] isr_1conn  262  netperf:  15  
+[2018/08/18 10:37:36 640] isr_1conn  1834 ASR_CLOUD_MSG_AUW  6400  2  
+[2018/08/18 10:37:36 641] isr_1conn  1834 ASR_CLOUD_MSG_AUW  5760  4  
+[2018/08/18 10:37:36 641] isr_1conn  1888 starttimer status_cb_timeout, timeout is:  3000  
+[2018/08/18 10:37:36 641] isr_1conn  1897 audio len:  95360  
+[2018/08/18 10:37:36 641] isr_1conn  1900 drate:   0  
+[2018/08/18 10:37:36 641] isr_1conn  1903 user  
+[2018/08/18 10:37:36 641] isr_1conn  1912 drate, start local.  
+[2018/08/18 10:37:36 668] transport  309  [dns] [1] timeout!   
+[2018/08/18 10:37:36 668] transport  77   dns_failed  
+[2018/08/18 10:37:36 668] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2018/08/18 10:37:36 668] network    90   ipfromenv ,  ipcfg  open.xf-yun.com  def  nil  
+[2018/08/18 10:37:36 668] transport  1303 [soc] connect   42.62.116.18  1028  
+[2018/08/18 10:37:36 668] transport  1315 mspsoc.open,prot_type=  tcp  
+[2018/08/18 10:37:36 676] network    231  dns timeout!  ns1  
+[2018/08/18 10:37:36 676] ns         457  ns dns failed, err =   10114  
+[2018/08/18 10:37:36 676] network    445  gethttpresp2  117.121.48.5  80  ns2  
+[2018/08/18 10:37:36 677] network    465  prot_type  tcp  
+[2018/08/18 10:37:36 779] isr_1conn  262  netperf:  17  
+[2018/08/18 10:37:37 092] isr_1conn  262  netperf:  19  
+[2018/08/18 10:37:37 404] isr_1conn  262  netperf:  11  
+[2018/08/18 10:37:37 716] isr_1conn  262  netperf:  13  
+[2018/08/18 10:37:38 028] isr_1conn  262  netperf:  15  
+[2018/08/18 10:37:38 339] isr_1conn  262  netperf:  17  
+[2018/08/18 10:37:38 651] isr_1conn  262  netperf:  19  
+[2018/08/18 10:37:38 963] isr_1conn  262  netperf:  11  
+[2018/08/18 10:37:39 276] isr_1conn  262  netperf:  13  
+[2018/08/18 10:37:39 588] isr_1conn  262  netperf:  15  
+[2018/08/18 10:37:39 650] isr_1conn  218  The called number of status_cb_timeout:  1  
